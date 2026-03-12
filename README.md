@@ -1,6 +1,6 @@
 <div align="center">
 
-# d0rkw3b
+# D0RKW3B
 
 ![Language](https://img.shields.io/badge/Language-Python-blue?style=flat-square&logo=python)
 ![Purpose](https://img.shields.io/badge/Purpose-OSINT-orange?style=flat-square)
